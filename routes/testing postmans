@@ -1,0 +1,8 @@
+5. Testing with Postman
+Now you can use Postman to test each endpoint of your API:
+
+GET /api/v3/app/events?id=<event_id>
+GET /api/v3/app/events?type=latest&limit=5&page=1
+POST /api/v3/app/events with the appropriate JSON payload.
+PUT /api/v3/app/events/:id with the updated data.
+DELETE /api/v3/app/events/:id.
