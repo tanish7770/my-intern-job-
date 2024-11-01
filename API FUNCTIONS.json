@@ -1,0 +1,13 @@
+{
+  "tag": "string",
+  "title": "string (max 60 characters)",
+  "image": "file",
+  "scheduled_on": "date (dd/mm/yy)",
+  "timings": {
+    "from": "time (hh:mm)",
+    "to": "time (hh:mm)"
+  },
+  "description": "string",
+  "invitation_text": "string"
+}
+
